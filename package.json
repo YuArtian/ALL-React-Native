@@ -1,0 +1,22 @@
+{
+  "name": "all-react-native",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native": "^0.60.4",
+    "react-native-vector-icons": "^6.6.0"
+  },
+  "dependencies": {
+    "deepmerge": "^4.0.0",
+    "hoist-non-react-statics": "^3.3.0",
+    "prop-types": "^15.7.2"
+  }
+}
